@@ -10,10 +10,10 @@ Seja bem-vindo(a) ao meu repositório de jornada no **Bootcamp Full Stack Mobile
 - **Node.js**: criação de APIs robustas e escaláveis.
 - **React Native**: construção de aplicações móveis para Android e iOS com performance nativa.
 - **Conceitos de arquitetura**: clean code, SOLID, modularização e reutilização de componentes.
-- **Deploys reais**: publicação de apps em lojas (App Store e Google Play) e APIs em ambiente de produção.
+<!-- - **Deploys reais**: publicação de apps em lojas (App Store e Google Play) e APIs em ambiente de produção. -->
 
 ---
-
+<!-- 
 ## 🧠 Por que esse bootcamp é diferente?
 
 - 🎮 **Simulador de Mario Kart** com física realista
@@ -35,7 +35,7 @@ Seja bem-vindo(a) ao meu repositório de jornada no **Bootcamp Full Stack Mobile
 | 📱 App de Finanças      | React Native, TypeScript          | Controle financeiro com autenticação e sincronização em nuvem.                  |
 | 📅 To-Do App            | React Native, SQLite              | Lista de tarefas offline-first com sincronização.                               |
 | 🛒 E-commerce Mobile    | React Native, Node.js, Stripe     | App completo de vendas, com carrinho e pagamento.                               |
-| ...                     | ...                               | E outros projetos incríveis estão por vir!                                      |
+| ...                     | ...                               | E outros projetos incríveis estão por vir!                                      | -->
 
 ---
 
