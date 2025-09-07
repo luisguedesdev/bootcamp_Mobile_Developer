@@ -1,19 +1,7 @@
-export const serviceListEpisodes =  () => {
-  const data = [
-    {
-      pocastName: "Flow",
-      episode: "CBUM - Flow 319",
-      videoId: "pQSuQmUfS30",
-      categories: ["saúde", "esporte"],
-    },
+import { repositoryPodcast } from "../repositories/podcasts-repository";
 
-    {
-      pocastName: "Flow",
-      episode: "Rubinho - Flow 339",
-      videoId: "pQSuQmUfS30",
-      categories: ["corrida", "esporte"],
-    },
-  ];
+export const serviceListEpisodes = async () => {
+  const data = await repositoryPodcast();
 
   return data;
 };

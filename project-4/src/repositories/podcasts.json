@@ -1,0 +1,21 @@
+[
+  {
+    "podcastName": "Flow",
+    "episode": "CBUM - Flow 319",
+    "videoId": "pQSuQmUfS30",
+    "categories": ["saúde", "esporte"]
+  },
+
+  {
+    "podcastName": "Flow",
+    "episode": "Rubinho - Flow 339",
+    "videoId": "pQSuQmUfS30",
+    "categories": ["corrida", "esporte"]
+  },
+  {
+    "podcastName": "Flow",
+    "episode": "Zézinho das coves - Flow 459",
+    "videoId": "pQSuQmUffweff",
+    "categories": ["alimentação", "estilo de vida"]
+  }
+]
