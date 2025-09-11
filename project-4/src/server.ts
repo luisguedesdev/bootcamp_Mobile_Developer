@@ -10,8 +10,6 @@ const server = http.createServer(
 
     const [baseUrl, queryString] = req.url?.split("?") ?? ["", ""];
 
-   
-
     if (req.method === "GET" && baseUrl === "/api/list") {
       await getListEpisodes(req, res);
     }
